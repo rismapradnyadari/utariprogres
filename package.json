@@ -1,0 +1,20 @@
+{
+    "name": "reactuas",
+    "version": "1.0.0",
+    "description": "project",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "serve": "nodemon server.js"
+    },
+    "author": "RismaPradnyadari",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2",
+        "mongoose": "^6.1.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
